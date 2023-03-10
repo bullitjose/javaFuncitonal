@@ -1,11 +1,11 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÿÎûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(£ÂÜ“øÿÿÿÿ
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(°ş«±ûÿÿÿÿ
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÿÎûÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(£ÂÜ“øÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ØÙÔ£ÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
 h
-java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
-U	java:S106*"9Replace this use of System.out or System.err by a logger.(î±Æ 8øÀ¿Äì0
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(Á©üÎ8±îÁÄì0
+java:S6204-"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(î±Æ 8øÀ¿Äì0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Á©üÎ8±îÁÄì0
 T
 java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Á¿Äì0
